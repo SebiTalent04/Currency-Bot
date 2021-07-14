@@ -1,0 +1,24 @@
+{
+  "name": "currency-bot",
+  "version": "1.0.0",
+  "description": "Simple currency bot",
+  "main": "Bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebiTalent04/Currency-bot.git"
+  },
+  "author": "SebiTalent04",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebiTalent04/Currency-bot/issues"
+  },
+  "homepage": "https://github.com/SebiTalent04/Currency-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "glob": "^7.1.7",
+    "moment": "^2.29.1"
+  }
+}
