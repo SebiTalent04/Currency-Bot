@@ -17,7 +17,7 @@ And thats it (I think)
 # Adding new commands
 
 1. Go to the `Commands` folder inside the `Src` folder
-2. Create a new *.js file
+2. Create a new .js file
 3. Build the command like below
 ```js
 module.exports = {
