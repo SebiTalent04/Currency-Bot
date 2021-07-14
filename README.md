@@ -2,7 +2,7 @@
 
 1. Fork this repo then do `npm i` into your terminal
 2. Create a file named `Token.js` in the main folder (not `Src`)
-3. Add your token in the file like this
+3. Add your token in the `Token.js` like this
 ```js
 const token = () => 
     'ODY0Nj-Your-Actual-Token-Here'
