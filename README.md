@@ -1,6 +1,6 @@
 # Installing
 
-1. Fork this repo then do `npm i` into your terminal
+1. Fork this repo then do `npm i` into your terminal to install the dependencies
 2. Create a file named `Token.js` in the main folder (not `Src`)
 3. Add your token in the `Token.js` like this
 ```js
@@ -16,7 +16,7 @@ And thats it (I think)
 
 # Adding new commands
 
-1. Go to the `Commands` directory inside the `Src` folder
+1. Go to the `Commands` folder inside the `Src` folder
 2. Create a new *.js file
 3. Build the command like below
 ```js
