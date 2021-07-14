@@ -1,4 +1,4 @@
-const {token} = require('../Src/Util')
+const {token} = require('../Token')
 const Discord = require('discord.js')
 const client = new Discord.Client()
 client.commands = new Discord.Collection()
